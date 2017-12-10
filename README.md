@@ -1,5 +1,5 @@
 # WriteProcessMemory-tool
-Simple tool for writing memory in x86 and x64 processes
+Simple tool for reading and writing memory in x86 and x64 processes
 
 ## How To
 1) Download and launch exe
